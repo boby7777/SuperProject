@@ -2,7 +2,7 @@
 This is my Super Project.
 
 # About Boby7777
-![headshot](koala.jpg)
+![headshot](Koala.jpg)
 Hi, my name is Bob Yang. This README is for practicing.
 
 ## My Career
